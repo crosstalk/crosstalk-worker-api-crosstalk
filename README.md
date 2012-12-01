@@ -9,6 +9,8 @@ Crosstalk API Base Url: `https://api.worker.crxtalk.com`
 
 [POST /account](/crosstalk/crosstalk-worker-api-crosstalk/wiki/POST-account) - Create new account
 
+[POST /account/:accountName/activate](/crosstalk/crosstalk-worker-api-crosstalk/wiki/Post-account-activate) - Activate account specified by `:accountName`
+
 ## Login/Logout
 
 [POST /login](/crosstalk/crosstalk-worker-api-crosstalk/wiki/POST-login) - Login
