@@ -3,6 +3,8 @@ Crosstalk HTTPS API
 
 Crosstalk API Base Url: `https://api.worker.crxtalk.com`
 
+_Click on links below for detailed documentation._
+
 ## Accounts
 
 [POST /account](https://github.com/crosstalk/crosstalk-worker-api-crosstalk/wiki/POST-account) - Create new account
